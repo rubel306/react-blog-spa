@@ -1,0 +1,16 @@
+.header {
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(17, 17, 17, 0.15);
+}
+.user-area {
+  text-align: right;
+}
+
+.user-area img {
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+}

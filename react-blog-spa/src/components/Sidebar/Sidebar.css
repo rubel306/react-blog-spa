@@ -1,0 +1,42 @@
+.total-time-spend {
+  border-radius: 8px;
+  border: 1px solid #6047ec;
+  background: rgba(96, 71, 236, 0.1);
+  padding: 20px 50px;
+  margin-bottom: 25px;
+}
+.total-time-spend p {
+  color: #6047ec;
+  font-family: Exo 2;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 160%; /* 38.4px */
+}
+.bookmarked-area {
+  border-radius: 8px;
+  background: rgba(17, 17, 17, 0.05);
+  padding: 30px;
+}
+.bookmarked-area h5 {
+  color: #111;
+  font-family: Exo 2;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 160%; /* 38.4px */
+}
+.single-bookmarked {
+  border-radius: 8px;
+  background: #fff;
+  padding: 20px;
+  margin-top: 15px;
+}
+.single-bookmarked p {
+  color: #111;
+  font-family: Exo 2;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 28.8px */
+}
