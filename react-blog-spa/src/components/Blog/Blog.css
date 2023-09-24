@@ -75,3 +75,14 @@
   border: none;
   cursor: pointer;
 }
+.book-btn {
+  background-color: #efecfd;
+  border: 1px solid #efecfd;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.book-btn:hover {
+  background-color: #6047ec;
+  color: #fff;
+}

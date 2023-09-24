@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "sunt aut facere repellat provident occaecati excepturi optio ",
+        "title": "Title 1 sunt aut facere repellat provident occaecati excepturi optio ",
         "hashTags": ["#beginners", "#programming"],
         "blogThumb" : "https://images.pexels.com/photos/16129703/pexels-photo-16129703/free-photo-of-man-coding-on-computers-sitting-at-desk.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "authorName": "Mrs. Setara",
@@ -11,7 +11,7 @@
       },
       {
         "id": 2,
-        "title": "sunt aut facere repellat provident occaecati excepturi ",
+        "title": "Title 2 sunt aut facere repellat provident occaecati excepturi ",
         "hashTags": ["#beginners", "#programming"],
         "blogThumb" : "https://images.pexels.com/photos/4218883/pexels-photo-4218883.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "authorName": "Mrs. Setara",
@@ -21,7 +21,7 @@
       },
       {
         "id": 3,
-        "title": "sunt aut facere repellat provident occaecati ",
+        "title": "Title 3 sunt aut facere repellat provident occaecati ",
         "hashTags": ["#beginners", "#programming"],
         "blogThumb" : "https://images.pexels.com/photos/2047912/pexels-photo-2047912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "authorName": "Mrs. Setara",
@@ -31,7 +31,7 @@
       },
       {
         "id": 4,
-        "title": "sunt aut facere repellat provident occaecati excepturi ",
+        "title": "Title 4 sunt aut facere repellat provident occaecati excepturi ",
         "hashTags": ["#beginners", "#programming"],
         "blogThumb" : "https://images.pexels.com/photos/1134829/pexels-photo-1134829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "authorName": "Mrs. Setara",

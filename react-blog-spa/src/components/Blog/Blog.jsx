@@ -4,6 +4,7 @@ const Blog = (props) => {
   const { blogThumb, authorThumb, authorName, publishedDate, title, timeNeed } =
     props.post;
   const clickToAddMin = props.clickToAddMin;
+  const countBookMark = props.countBookMark;
   return (
     <div className="single-post">
       <img className="blog-thumb" src={blogThumb} alt="" />
@@ -19,6 +20,9 @@ const Blog = (props) => {
         </div>
         <div className="time-need">
           <p>{timeNeed} min read</p>
+          <button onClick={() => countBookMark(title)} className="book-btn">
+            Bookmarked
+          </button>
         </div>
       </div>
       <h2>{title}</h2>

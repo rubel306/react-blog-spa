@@ -20,6 +20,8 @@
   border-radius: 8px;
   background: rgba(17, 17, 17, 0.05);
   padding: 30px;
+  position: sticky;
+  top: 145px;
 }
 .bookmarked-area h5 {
   color: #111;
