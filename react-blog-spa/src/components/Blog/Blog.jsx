@@ -1,10 +1,13 @@
 import "./Blog.css";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const Blog = (props) => {
   const { blogThumb, authorThumb, authorName, publishedDate, title, timeNeed } =
     props.post;
   const clickToAddMin = props.clickToAddMin;
   const countBookMark = props.countBookMark;
+  const notify = () => toast("Thanks For Read !!");
   return (
     <div className="single-post">
       <img className="blog-thumb" src={blogThumb} alt="" />
@@ -29,6 +32,11 @@ const Blog = (props) => {
       <button className="btn" onClick={() => clickToAddMin(timeNeed)}>
         Mark as read
       </button>
+
+      <button className="btn" onClick={notify}>
+        Notify !
+      </button>
+      <ToastContainer />
     </div>
   );
 };
