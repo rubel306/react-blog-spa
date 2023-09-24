@@ -4,6 +4,9 @@
   background: rgba(96, 71, 236, 0.1);
   padding: 20px 50px;
   margin-bottom: 25px;
+  position: sticky;
+  top: 0;
+  z-index: 9999999;
 }
 .total-time-spend p {
   color: #6047ec;

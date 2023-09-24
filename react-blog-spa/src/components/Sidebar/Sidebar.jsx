@@ -1,9 +1,9 @@
 import "./Sidebar.css";
-const Sidebar = () => {
+const Sidebar = (props) => {
   return (
     <div className="sidebar">
       <div className="total-time-spend">
-        <p>Spent time on Read: 0</p>
+        <p>Spent time on Read: {props.spendTime}</p>
       </div>
       <div className="bookmarked-area">
         <h5>Bookmarked Blogs : 8</h5>

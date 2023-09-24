@@ -6,7 +6,8 @@
         "blogThumb" : "https://images.pexels.com/photos/16129703/pexels-photo-16129703/free-photo-of-man-coding-on-computers-sitting-at-desk.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "authorName": "Mrs. Setara",
         "publishedDate" : "Mar 14, 2023",
-        "authorThumb": "https://images.pexels.com/photos/3965233/pexels-photo-3965233.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1"
+        "authorThumb": "https://images.pexels.com/photos/3965233/pexels-photo-3965233.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+        "timeNeed" : 5
       },
       {
         "id": 2,
@@ -15,7 +16,8 @@
         "blogThumb" : "https://images.pexels.com/photos/4218883/pexels-photo-4218883.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "authorName": "Mrs. Setara",
         "publishedDate" : "Mar 20, 2023",
-        "authorThumb": "https://images.pexels.com/photos/3965233/pexels-photo-3965233.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1"
+        "authorThumb": "https://images.pexels.com/photos/3965233/pexels-photo-3965233.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+        "timeNeed" : 10
       },
       {
         "id": 3,
@@ -24,7 +26,8 @@
         "blogThumb" : "https://images.pexels.com/photos/2047912/pexels-photo-2047912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "authorName": "Mrs. Setara",
         "publishedDate" : "Mar 25, 2023",
-        "authorThumb": "https://images.pexels.com/photos/3965233/pexels-photo-3965233.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1"
+        "authorThumb": "https://images.pexels.com/photos/3965233/pexels-photo-3965233.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+        "timeNeed" : 15
       },
       {
         "id": 4,
@@ -33,6 +36,7 @@
         "blogThumb" : "https://images.pexels.com/photos/1134829/pexels-photo-1134829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "authorName": "Mrs. Setara",
         "publishedDate" : "Mar 30, 2023",
-        "authorThumb": "https://images.pexels.com/photos/3965233/pexels-photo-3965233.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1"
+        "authorThumb": "https://images.pexels.com/photos/3965233/pexels-photo-3965233.jpeg?auto=compress&cs=tinysrgb&w=50&h=50&dpr=1",
+        "timeNeed" : 10
       }
 ]

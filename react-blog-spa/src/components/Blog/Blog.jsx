@@ -1,9 +1,9 @@
 import "./Blog.css";
 
 const Blog = (props) => {
-  const { blogThumb, authorThumb, authorName, publishedDate, title } =
+  const { blogThumb, authorThumb, authorName, publishedDate, title, timeNeed } =
     props.post;
-  console.log(props.post);
+  const clickToAddMin = props.clickToAddMin;
   return (
     <div className="single-post">
       <img className="blog-thumb" src={blogThumb} alt="" />
@@ -18,11 +18,13 @@ const Blog = (props) => {
           </div>
         </div>
         <div className="time-need">
-          <p>05 min read</p>
+          <p>{timeNeed} min read</p>
         </div>
       </div>
       <h2>{title}</h2>
-      <button className="btn">Mark as read</button>
+      <button className="btn" onClick={() => clickToAddMin(timeNeed)}>
+        Mark as read
+      </button>
     </div>
   );
 };

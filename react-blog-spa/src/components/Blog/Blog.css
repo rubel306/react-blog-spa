@@ -1,6 +1,7 @@
 .single-post {
   border-bottom: 1px solid rgba(17, 17, 17, 0.1);
   padding-bottom: 15px;
+  margin-bottom: 40px;
 }
 .single-post img.blog-thumb {
   width: 845px;
